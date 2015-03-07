@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://www.youraddress.com/rss-news.xml" rel="self" type="application/rss+xml" />
+    <generator>Written from scratch.</generator>
+    <title>The title of your website RSS.</title>
+    <link>http://www.youraddress.com/</link>
+    <description>The description of your website RSS.</description>
+    <language>en</language>
+    <managingEditor>username@domain.com (Surname Lastname)</managingEditor>
+    <webMaster>username@domain.com (Surname Lastname)</webMaster>
+    <copyright>Copyright (c) <year> <Surname Lastname>.</copyright>
+    <image>
+      <title>The title of the graphic.</title>
+      <link>http://www.youraddress.com/</link>
+      <url>http://www.youraddress.com/graphics/vs-cms-banner-middle-2.png</url>
+    </image>
+    <item>
+      <title>The title of the content item.</title>
+      <pubDate>Sat, 29 Dec 2007 17:51:49 +0200</pubDate>
+      <link>http://www.youraddress.com/show-content.php?conid=1</link>
+      <guid isPermaLink="true">http://www.youraddress.com/show-content.php?conid=1</guid>
+      <category>The category of the content item.</category>
+      <description><![CDATA[Description text of the content item.]]></description>
+    </item>
+  </channel>
+</rss>

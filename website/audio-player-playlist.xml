@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+ Copyright (c) 2007 Efstathios Chatzikyriakidis (contact@efxa.org)
+
+ Permission is granted to copy, distribute and/or modify this document
+ under the terms of the GNU Free Documentation License, Version 1.2 or
+ any later version published by the Free Software Foundation; with no
+ Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A
+ copy of the license is included in the section entitled "GNU Free
+ Documentation License".
+-->
+
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+ <trackList>
+  <track>
+   <title>The title of the song 1.</title>
+   <creator>The album of the song 1.</creator>
+   <location>http://www.youraddress.com/downloads/files/audio/album/song-1.mp3</location>
+   <info>http://www.youraddress.com/</info>
+  </track>
+  <track>
+   <title>The title of the song 2.</title>
+   <creator>The album of the song 2.</creator>
+   <location>http://www.youraddress.com/downloads/files/audio/album/song-2.mp3</location>
+   <info>http://www.youraddress.com/</info>
+  </track>
+  <track>
+   <title>The title of the song 3.</title>
+   <creator>The album of the song 3.</creator>
+   <location>http://www.youraddress.com/downloads/files/audio/album/song-3.mp3</location>
+   <info>http://www.youraddress.com/</info>
+  </track>
+ </trackList>
+</playlist>

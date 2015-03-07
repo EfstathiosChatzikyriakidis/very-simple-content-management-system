@@ -1,0 +1,42 @@
+/*
+ *  Copyright (c) 2006 Efstathios Chatzikyriakidis (contact@efxa.org)
+ *
+ *  Permission is granted to copy, distribute and/or modify this document
+ *  under the terms of the GNU Free Documentation License, Version 1.2 or
+ *  any later version published by the Free Software Foundation; with no
+ *  Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A
+ *  copy of the license is included in the section entitled "GNU Free
+ *  Documentation License".
+ */
+
+a:link
+ {
+  text-decoration: none;
+  color: #11116E
+ }
+
+a:visited
+ {
+  text-decoration: none;
+  color: #11116E
+ }
+
+a:hover
+ {
+  font-style: normal;
+  color: #000000;
+  text-decoration: underline
+ }
+
+body
+ {
+  font-family: verdana;
+  font-size: 10px
+ }
+
+td
+ {
+  font-family: verdana;
+  color: #000000;
+  font-size: 10px
+ }
