@@ -4,7 +4,7 @@
  // otherwise, try to change the template in case of a GET request.
 
  /*
-  *  Copyright (c) 2006 Efstathios Chatzikyriakidis (contact@efxa.org)
+  *  Copyright (c) 2006 Efstathios Chatzikyriakidis (stathis.chatzikyriakidis@gmail.com)
   *
   *  Permission is granted to copy, distribute and/or modify this document
   *  under the terms of the GNU Free Documentation License, Version 1.2 or

@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
 <!--
- Copyright (c) 2007 Efstathios Chatzikyriakidis (contact@efxa.org)
+ Copyright (c) 2007 Efstathios Chatzikyriakidis (stathis.chatzikyriakidis@gmail.com)
 
  Permission is granted to copy, distribute and/or modify this document
  under the terms of the GNU Free Documentation License, Version 1.2 or
